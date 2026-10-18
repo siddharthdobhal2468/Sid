@@ -93,7 +93,7 @@ export const botConfig = {
   embeds: {
     colors: {
       // Main brand colors.
-      primary: "#336699",
+      primary: "#1CD9C0",
       secondary: "#2F3136",
 
       // Standard status colors for success/error/warning/info messages.
@@ -141,7 +141,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "Sid Bot",
       // Footer icon URL (null = no icon).
       icon: null,
     },
@@ -161,11 +161,11 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "Spina",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "Spinas",
       // Currency symbol shown in balances.
-      symbol: "$",
+      symbol: "S",
     },
 
     // Starting balance for new users.
